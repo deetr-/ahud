@@ -1,5 +1,27 @@
 "Resource/HudLayout.res"
 {	
+	// crosshair
+	// also copy font from clientscheme.res and xhairs.res and font file
+	CircleDot
+	{
+		"controlName"	"CExLabel"
+		"fieldName"	 	"CircleDot"
+		"visible"		"1"
+		"enabled"		"1"
+		"zpos"			"2"
+
+		"xpos"			"c-100"
+		"ypos"			"c-96"
+		"wide"			"200"
+		"tall"			"200"
+
+		//"font"			"CrosshairsOutline34"
+		"font"			"Crosshairs34"
+		"labelText"		"8"
+		"textAlignment"	"center"	
+		
+		"fgcolor"		"0 255 0 255"
+	}
 	//--------------------------------------------------------------
 	// KNUCKLESCROSSES
 	//--------------------------------------------------------------

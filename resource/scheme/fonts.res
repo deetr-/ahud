@@ -2,6 +2,16 @@ Scheme
 {
 	Fonts
 	{
+		"Crosshairs34"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"34"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
 		"BlocksSharp64"
 		{
 			"1"
