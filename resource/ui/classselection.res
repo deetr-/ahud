@@ -514,7 +514,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"&C  Cancel"
+		"labelText"		"&Q  Cancel"
 		"textAlignment"	"west"
 		"Command"		"vguicancel"
 		"font"			"aRegular12"
